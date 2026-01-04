@@ -75,7 +75,7 @@ I am a developer passionate about bridging the gap between **Human-Computer Inte
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub & Hackatime Stats
 
 
 <div align="center">
@@ -92,8 +92,6 @@ I am a developer passionate about bridging the gap between **Human-Computer Inte
 </div>
 </div>
 
-
-
 ---
 
 <div align="center">
@@ -104,4 +102,13 @@ I am a developer passionate about bridging the gap between **Human-Computer Inte
   <a href="mailto:swastikbajpaii7969@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
+</div>
+
+
+<div align="center">
+<picture style="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
 </div>
