@@ -42,8 +42,6 @@ I am a developer passionate about bridging the gap between **Human-Computer Inte
 
 ---
 
-https://github-readme-stats.hackclub.dev/api/wakatime?username=3284&api_domain=hackatime.hackclub.com&&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8&theme=midnight-purple
-
 ### 🧩 Featured Projects
 
 <table>
@@ -89,7 +87,12 @@ https://github-readme-stats.hackclub.dev/api/wakatime?username=3284&api_domain=h
   <br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Swamstick911&theme=tokyonight&hide_border=true&background=0D1117" alt="Streak Stats" />
 </div>
+<div align="center">
+  <img src="https://github-readme-stats.hackclub.dev/api/wakatime?username=3284&api_domain=hackatime.hackclub.com&&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8&theme=midnight-purple" alt="Hackatime Stats" />
 </div>
+</div>
+
+
 
 ---
 
