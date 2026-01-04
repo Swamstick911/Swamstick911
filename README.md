@@ -79,8 +79,8 @@ I am a developer passionate about bridging the gap between **Human-Computer Inte
 
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Swamstick911&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Swamstick911&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Langs" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?sername=Swamstick911&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?sername=Swamstick911&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Langs" height="160" />
 </div>
 
 <div align="center">
