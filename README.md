@@ -59,15 +59,15 @@ I am a developer passionate about bridging the gap between **Human-Computer Inte
       </p>
     </td>
     <td width="50%">
-      <h3 align="center">📚 Grindline</h3>
+      <h3 align="center">Shelby</h3>
       <p align="center">
-        <strong>AI-powered comeback planner</strong> for students to stay on track.
+        <strong>A firmware for Sprig by hack club that turns it from a gaming console to a desk companion!
         <br />
-        Features: <code>Task Management</code>, <code>Consistency Tracker</code>, <code>Gamification</code>, <code>AI Chat</code>
+        Features: <code>Clock with dynamic background</code>, <code>Connects with your github</code>, and many more...
         <br />
-        Built with <code>React</code>, <code>TailwindCSS</code>, <code>Zustand</code>, <code>Framer Motion</code>
+        Built with <code>MicroPython</code>
         <br />
-        <a href="https://github.com/Swamstick911/grindline">View Repo</a> | <a href="https://grindline-five.vercel.app/">Live Demo</a>
+        <a href="https://github.com/Swamstick911/Shelby">View Repo</a>
       </p>
     </td>
   </tr>
