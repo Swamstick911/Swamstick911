@@ -19,7 +19,7 @@
 
 I am a developer passionate about bridging the gap between **Human-Computer Interaction** and **Artificial Intelligence**. My work focuses on building gesture-controlled interfaces, eye-tracking systems, productivity ecosystems, and hardware projects that blend seamless UI with powerful AI backends.
 
-- 🔭 I'm currently working on **Velocity** (Control your cursor with your head) and **StudyVibe** (AI-powered study tool that also lets you compete with your friends).
+- 🔭 I'm currently working on **Velocity** (Review platform for hack club YSWS reviewers) and **Sprig Terminal LLM** (A firmware that lets you run AI in your sprig).
 - 🌱 I'm currently learning **TypeScript** and **Next.js** for interactive web applications.
 - 💡 I love customizing developer environments and building hardware-software integrations.
 - 👯 I'm looking to contribute to open-source **Computer Vision** and **Mechanical Engineering** projects.
