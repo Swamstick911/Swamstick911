@@ -4,7 +4,7 @@
 </div>
 
 <div align="center">
-  <h3>🚀 AI & Computer Vision Developer from Kanpur, India</h3>
+  <h2>AI & CV Developer from Kanpur, India</h3>
 </div>
 
 <p align="center">
@@ -15,7 +15,7 @@
 
 ---
 
-### 👨‍💻 About Me
+### About Me
 
 I am a developer passionate about bridging the gap between **Human-Computer Interaction** and **Artificial Intelligence**. My work focuses on building gesture-controlled interfaces, eye-tracking systems, productivity ecosystems, and hardware projects that blend seamless UI with powerful AI backends.
 
@@ -26,7 +26,7 @@ I am a developer passionate about bridging the gap between **Human-Computer Inte
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 <div align="center">
 
@@ -42,12 +42,12 @@ I am a developer passionate about bridging the gap between **Human-Computer Inte
 
 ---
 
-### 🧩 Featured Projects
+### Featured Projects
 
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">⌨️ Mechatron Keyboard</h3>
+      <h3 align="center">Mechatron Keyboard</h3>
       <p align="center">
         A custom 65% <strong>mechanical keyboard</strong> with advanced features.
         <br />
@@ -75,7 +75,7 @@ I am a developer passionate about bridging the gap between **Human-Computer Inte
 
 ---
 
-### 📊 GitHub & Hackatime Stats
+### GitHub & Hackatime Stats
 
 
 <div align="center">
